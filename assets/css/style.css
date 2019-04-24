@@ -1,0 +1,23 @@
+body {
+    background-image: url(/../images/mosaic/mosaic.png);
+    background-color: #cccccc;
+    width: 960px;
+    margin: auto;
+}
+
+span {
+    display: inline-block;
+}
+
+img {
+    float: none;
+}
+
+.About,
+.Portfolio,
+.Contact {
+    float: right;
+}
+.your-name{
+
+}
