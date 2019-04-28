@@ -6,13 +6,9 @@ body {
 .mainpage {
     background-color: white;
     width: 910px;
-    /* height: 400px; */
     margin: auto;
-    /* border-color: blue; */
-    /* border-style: solid; */
     clear: both;
     padding: 25px;
-    /* margin: 25px; */
     position: left: 50%;
     margin-top: 25px;
     overflow: auto;
@@ -25,21 +21,7 @@ font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 width: 100px;
 }
 
-/* div {
-    display: inline-block;
-    border-color: blue;
-    border-style: solid;
-} */
 
-#body1 {
-   
-    /* border-color: blue; */
-    /* border-style: solid; */
-}
-
-/* img {
-    float: none;
-} */
 
 .About,
 .Portfolio,
@@ -49,9 +31,6 @@ width: 100px;
     padding: 0 15px;
     margin-top: 25px;
     color: #777777;
-    /* min-height: 10em; */
-    /* border-color: blue; */
-    /* border-style: solid; */
 }
 .your-name{
 background-color: #4aaaa5;
@@ -61,7 +40,6 @@ padding: 0 25px;
 }
 
 #image {
-/* background-color: red; */
 width:200px;
 float: left;
 padding-right: 10px;
@@ -80,7 +58,6 @@ header {
     background-color: #ffffff;
     height: 80px;
     border-bottom: 5px solid #cccccc;
-    /* border-color: #cccccc; */
     font-family: 'Georgia', Times, Times New Roman, serif;
 }  
 
@@ -104,31 +81,17 @@ color:#777777;
     position: fixed;
 }
 
-/* .section{ */
-    /* max-width:320; */
-    /* min-height: 10em; */
-    /* border-color: blue; */
-    /* border-style: solid; */
-/* } */
 
 .label{
 background-color: #4aaaa5;
 color: white;
-/* float: left; */
-/* padding: 0 25px; */
 margin-top: -50px;
-/* display: inline; */
 }
 
-/* .portImg{
-    width: 288;
 
-} */
 .section {
     width: 288px;
     height: 216px;
-    /* border-color: blue;
-    border-style: solid; */
     overflow: auto;
 }
 
@@ -137,9 +100,6 @@ margin-top: -50px;
     height: auto;
 }
 
-#sec1{ 
-    /* float: left; */
-}
 
 h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
